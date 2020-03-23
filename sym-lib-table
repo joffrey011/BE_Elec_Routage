@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name BE-lib)(type Legacy)(uri "C:/Users/ordinateur/Desktop/BE elec routage/BE_Elec_Routage/LibAmpli_3imacs/CmpAmpliAudio.lib")(options "")(descr ""))
+  (lib (name BE-lib)(type Legacy)(uri ${KIPRJMOD}/LibAmpli_3imacs/CmpAmpliAudio.lib)(options "")(descr ""))
   (lib (name routageBE-rescue)(type Legacy)(uri ${KIPRJMOD}/routageBE-rescue.lib)(options "")(descr ""))
 )
