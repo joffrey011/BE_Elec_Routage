@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LibRelai)(type KiCad)(uri ${KIPRJMOD}/LibRelai.pretty)(options "")(descr ""))
+  (lib (name LibAmpli)(type KiCad)(uri C:/Users/ordinateur/Desktop/BE_Elec_2/BE_Elec_Routage-master/LibAmpli_3imacs/CmpAmpliAudio.pretty)(options "")(descr ""))
+)

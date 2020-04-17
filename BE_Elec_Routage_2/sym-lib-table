@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name BE-lib)(type Legacy)(uri ${KIPRJMOD}/LibAmpli_3imacs/CmpAmpliAudio.lib)(options "")(descr ""))
+  (lib (name routageBE-rescue)(type Legacy)(uri ${KIPRJMOD}/routageBE-rescue.lib)(options "")(descr ""))
+  (lib (name LibRelai)(type Legacy)(uri ${KIPRJMOD}/LibRelai.lib)(options "")(descr ""))
+)
